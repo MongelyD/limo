@@ -1,0 +1,35 @@
+.summary{
+    box-shadow:  1px 1px 3px #888888;
+    background-color: wheat;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-radius: 5px;
+    display: inline-block;
+    width: 100%;
+}
+
+.content{
+    box-shadow:  1px 1px 3px #888888;
+    background-color: white;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-radius: 5px;
+    display: inline-block;
+    width: 100%;
+}
+
+.ride{
+    box-shadow:  1px 1px 3px #888888;
+    background-color: rgb(245, 240, 230);
+    margin-bottom: 0.5rem;
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-radius: 5px;
+    display: inline-block;
+    width: 100%;
+}
